@@ -16,12 +16,10 @@
 </div>
 ## Screensots
 <div id="screenshots">
- 1.Home Page
-<img src="./images/home.jpg">
-2.Dashboard (multiple user access)
-<img src="./images/dash.jpg">
-3.chatBot (ML & RAG)
-<img src="./images/bot.png">
+ 1.Home
+<img src="./images/mm1.jpg">
+2.Transctions with History
+<img src="./images/dmm2.jpg">
 </div>
 
 ## Features
