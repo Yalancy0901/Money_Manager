@@ -12,12 +12,17 @@
     Welcome to our project!
     <br />
     <br />
-  <a href="https://drive.google.com/file/d/15TaBL1io9tWLfnuG6YbZtdTFzmr71V74/view?usp=sharing"></a>
-      <a href="https://drive.google.com/file/d/1-7_V2l-xnCWJp3flbnUtX-V8SH_H37Ps/view?usp=sharing">Added Transctions</a>
- 
   </p>
 </div>
-
+## Screensots
+<div id="screenshots">
+ 1.Home Page
+<img src="./images/home.jpg">
+2.Dashboard (multiple user access)
+<img src="./images/dash.jpg">
+3.chatBot (ML & RAG)
+<img src="./images/bot.png">
+</div>
 
 ## Features
 
