@@ -33,7 +33,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/money-manager.git
+    https://github.com/Yalancy0901/Money_manager.git
     cd money-manager
     ```
 
