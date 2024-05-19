@@ -1,8 +1,5 @@
 <br />
 <div align="center">
-  <a href="t">
-    <img src="./images/main.jpg" >
-  </a>
 
   <h1 align="center">MONEY MANAGER</h1>
   <p>Money Manager is a simple React application that allows you to track your income and expenses, calculate the balance, and view transactions by month.
@@ -14,12 +11,14 @@
     <br />
   </p>
 </div>
-## Screensots
+
+## Screenshots
+
 <div id="screenshots">
  1.Home
-<img src="./images/mm1.jpg">
+<img src="./images/mm1.png">
 2.Transctions with History
-<img src="./images/dmm2.jpg">
+<img src="./images/dmm2.png">
 </div>
 
 ## Features
