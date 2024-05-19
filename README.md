@@ -18,7 +18,7 @@
  1.Home
 <img src="./images/mm1.png">
 2.Transctions with History
-<img src="./images/dmm2.png">
+<img src="./images/mm2.png">
 </div>
 
 ## Features
