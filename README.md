@@ -1,12 +1,31 @@
-# Money Manager
+<br />
+<div align="center">
+  <a href="t">
+    <img src="./images/main.jpg" >
+  </a>
 
-Money Manager is a simple React application that allows you to track your income and expenses, calculate the balance, and view transactions by month.
+  <h1 align="center">MONEY MANAGER</h1>
+  <p>Money Manager is a simple React application that allows you to track your income and expenses, calculate the balance, and view transactions by month.
+</p>
+
+  <p align="center">
+    Welcome to our project!
+    <br />
+    <br />
+<!--     <a href="https://drive.google.com/file/d/15TaBL1io9tWLfnuG6YbZtdTFzmr71V74/view?usp=sharing"></a>
+      <a href="https://drive.google.com/file/d/1-7_V2l-xnCWJp3flbnUtX-V8SH_H37Ps/view?usp=sharing">Added Transctions</a>
+ -->
+  </p>
+</div>
+
 
 ## Features
 
 - Add income and expenses
 - View total income, total expenses, and balance
 - View transactions grouped by month
+
+
 
 ## Installation
 
